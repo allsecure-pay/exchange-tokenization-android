@@ -5,7 +5,8 @@ This SDK enables you to tokenize card data natively from your Android applicatio
 ## Usage
 
 - See [![](https://jitpack.io/v/allsecure-pay/exchange-tokenization-android.svg)](https://jitpack.io/#allsecure-pay/exchange-tokenization-android)
-- [Javadoc](https://javadoc.jitpack.io/com/allsecure-pay/exchange-tokenization-android/latest/javadoc/index.html)
+- Javadoc [![](https://javadoc.jitpack.io/v/allsecure-pay/exchange-tokenization-android.svg)](https://javadoc.jitpack.io/#allsecure-pay/exchange-tokenization-android)
+
 
 
 ## Examples
