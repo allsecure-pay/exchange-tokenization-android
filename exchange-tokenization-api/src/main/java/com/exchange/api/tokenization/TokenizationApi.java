@@ -12,7 +12,7 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 /**
- * This class is the entry point to the Exchange tokenization API.
+ * This class is the entry point to the EXCHANGE tokenization API.
  */
 public class TokenizationApi {
 
@@ -57,7 +57,7 @@ public class TokenizationApi {
         }
 
         /**
-         * @param gatewayHost this can be used to switch to a testing/staging environment of the Exchange gateway.
+         * @param gatewayHost this can be used to switch to a testing/staging environment of the EXCHANGE gateway.
          * @return this
          */
         public Builder gatewayHost(String gatewayHost) {
